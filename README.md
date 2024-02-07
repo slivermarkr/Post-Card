@@ -4,3 +4,5 @@
 
 -generating font for the site using fontsquirrel
 -styling form control elements
+
+![Alt text](image-1.png)
