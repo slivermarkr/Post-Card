@@ -4,5 +4,3 @@
 
 -generating font for the site using fontsquirrel
 -styling form control elements
-
-
